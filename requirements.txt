@@ -1,0 +1,5 @@
+Flask
+pyrogram
+tgcrypto
+colorama
+requests
