@@ -175,7 +175,9 @@ chat_id is the bot's user name. and text is the command with the card which will
 
 ## Support:
 [Telegram](https://t.me/fakehecker)
+
 [Facebook](https://facebook.com/jnaid.rahman.im)
+
 [Github](https://github.com/Junaid433/BOT2WEB-Remastered/issues)
 
 ## Donation:
